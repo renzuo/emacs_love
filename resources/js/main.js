@@ -17,7 +17,7 @@ $(document).ready(function() {
         });
         self.addClass('prettyprint');
     });
-    $('pre.example').removeClass('example').addClass('prettyprint');
+    $('Pre.example').removeClass('example').addClass('prettyprint');
 
     /*******************************************************************
      * 1. remove all org exported line number spans
